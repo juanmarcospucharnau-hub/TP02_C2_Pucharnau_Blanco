@@ -1,0 +1,10 @@
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]ulds/
+/[Mm]emoryCaptures/
+/[Mm]Logs/
+*.csproj
+*.sln
+*.suo
